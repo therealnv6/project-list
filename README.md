@@ -7,5 +7,6 @@
 
 ## Legacy Projects
 * [TabAPI](https://github.com/NoSequel/TabAPI)
-* [ScoreboardAPI](https://github.com/NoSequel/ScoreboardAPI)
+* [ScoreboardAPI](https://github.com/NoSequel/ScoreboardAPI) - superseded by [lmao-lib](https://github.com/designlmao/lmao-lib)
 * [StorageORM](https://github.com/NoSequel/StorageORM) - superseded by [honey](https://github/devrawr.com/commands)
+* [ConfigAPI](https://github.com/NoSequel/ConfigAPI) - superseded by [configs](https://github.com/devrawr/configs)
